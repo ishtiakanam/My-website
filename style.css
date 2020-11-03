@@ -1,0 +1,71 @@
+.container {
+  margin-top: 100px;
+}
+.orange-bg {
+  background-image: url(./images/bg-2.png);
+  background-repeat: no-repeat;
+}
+.card {
+  border: none;
+  box-shadow: 0.5px 0.5px 5px;
+}
+.card-footer {
+  border-top: none;
+  background-color: #fff;
+}
+
+#first {
+  border: 2px solid green;
+  border: none;
+  box-shadow: 0.5px 0.5px 5px;
+}
+#second {
+  margin: auto;
+  border: 2px solid green;
+  border: none;
+  box-shadow: 0.5px 0.5px 5px;
+}
+footer {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.img-container img {
+  width: 100%;
+}
+.bag-img-container {
+  height: 400px;
+}
+
+.bag-img-container img {
+  width: 180px;
+  height: 180px;
+  box-shadow: 0.5px 0.5px 5px gray;
+}
+
+.middle-img-container img {
+  width: 180px;
+  height: 180px;
+  margin: 5%;
+  box-shadow: 0.5px 0.5px 5px gray;
+}
+.carousel-indicators li {
+  height: 8px;
+  width: 14px;
+  background-color: gray;
+  border-radius: 40%;
+}
+
+.carousel-indicators .active {
+  width: 28px !important;
+  background-color: orange !important;
+}
+.end-container {
+  color: orangered;
+}
+.title-line {
+  background-color: orange !important;
+  height: 6px;
+  width: 120px;
+  border-radius: 3px;
+}
